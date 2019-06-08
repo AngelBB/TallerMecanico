@@ -1,0 +1,46 @@
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Login.resources
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.MenuPrincipal.resources
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Resources.resources
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.vbproj.GenerateResource.Cache
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\AppData\Local\Temporary Projects\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Login.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.MenuPrincipal.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Resources.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Piezas.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.vbproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Informes.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.MenuPrincipal.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Resources.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Piezas.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.vbproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Login.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.exe
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.pdb
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Debug\TallerMecanico_AngelBarrilao.xml
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Login.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.MenuPrincipal.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Resources.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Piezas.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.Trabajadores.resources
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.vbproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Debug\TallerMecanico_AngelBarrilao.facturas.resources

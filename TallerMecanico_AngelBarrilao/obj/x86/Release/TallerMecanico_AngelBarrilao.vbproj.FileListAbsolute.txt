@@ -1,0 +1,10 @@
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Release\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Release\TallerMecanico_AngelBarrilao.pdb
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\bin\Release\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.Login.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.MenuPrincipal.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.Resources.resources
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.vbproj.GenerateResource.Cache
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.exe
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.xml
+C:\Users\2dai\Documents\Visual Studio 2010\Projects\TallerMecanico_AngelBarrilao\TallerMecanico_AngelBarrilao\obj\x86\Release\TallerMecanico_AngelBarrilao.pdb
